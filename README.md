@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -66,3 +67,7 @@ Enjoy!
 [10]: https://symfony.com/doc/2.8/cookbook/email.html
 [11]: https://symfony.com/doc/2.8/cookbook/logging/monolog.html
 [13]: https://symfony.com/doc/2.8/bundles/SensioGeneratorBundle/index.html
+=======
+# massmedianew
+New variant for massmedia
+>>>>>>> 913cb883ee0700abad059c0795b134747363d7b7
